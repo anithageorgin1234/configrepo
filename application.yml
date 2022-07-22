@@ -1,7 +1,7 @@
 my:
-  greeting: Welcome to applicatiom management system
+  greeting: Welcome to greatlearning
   list:
-    values: apple,banana,mango,grapes
+    values: apple,banana,mango,grapes,cocount
 
 
     
