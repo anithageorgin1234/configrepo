@@ -1,5 +1,5 @@
 my:
-  greeting: Welcome to greatlearning
+  greeting: Welcome to cloud configdetails
   list:
-    values: apple,banana,mango,grapes,cocount
+    values: apple,banana
 
